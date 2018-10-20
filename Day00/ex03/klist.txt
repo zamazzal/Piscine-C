@@ -1,0 +1,8 @@
+Credentials cache: API:1544
+        Principal: zamazzal@1337.MA
+
+  Issued                Expires               Principal
+Aug 27 22:54:59 2018  Aug 28 08:54:59 2018  krbtgt/1337.MA@1337.MA
+Aug 27 22:55:01 2018  Aug 28 08:54:59 2018  ldap/ldap-master.1337.ma@1337.MA
+Aug 27 22:55:01 2018  Aug 28 08:54:59 2018  HTTP/iscsi.1337.ma@1337.MA
+Aug 27 23:05:04 2018  Aug 28 08:54:59 2018  host/vogsphere.1337.ma@1337.MA

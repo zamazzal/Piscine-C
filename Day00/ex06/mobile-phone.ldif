@@ -1,0 +1,5 @@
+dn:uid=zamazzal,ou=candidate,ou=people,dc=1337,dc=ma
+changetype: modify
+add: mobile
+mobile: 0611775212
+
